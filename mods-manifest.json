@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "mods": [
+    {
+      "name": "BetterAdvancements Fabric 1.21.1 0.4.3.21",
+      "filename": "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
+      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
+      "sha256": "7542d8f2f280fad5698f114ab28c28300e52bdcf80622f3c104b96434162fcf5"
+    },
+    {
+      "name": "balm fabric 1.21.1 21.0.55",
+      "filename": "balm-fabric-1.21.1-21.0.55.jar",
+      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/balm-fabric-1.21.1-21.0.55.jar",
+      "sha256": "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"
+    }
+  ]
+}
