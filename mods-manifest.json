@@ -1,29 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mods": [
     {
-      "name": "BetterAdvancements Fabric 1.21.1 0.4.3.21",
-      "filename": "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
-      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar",
-      "sha256": "7542d8f2f280fad5698f114ab28c28300e52bdcf80622f3c104b96434162fcf5"
-    },
-    {
-      "name": "balm fabric 1.21.1 21.0.55",
-      "filename": "balm-fabric-1.21.1-21.0.55.jar",
-      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/balm-fabric-1.21.1-21.0.55.jar",
-      "sha256": "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"
-    },
-    {
-      "name": "architectury 9.2.14 forge",
-      "filename": "architectury-9.2.14-forge.jar",
-      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/architectury-9.2.14-forge.jar",
-      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
-    },
-    {
-      "name": "artifacts forge 9.5.11",
-      "filename": "artifacts-forge-9.5.11.jar",
-      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/artifacts-forge-9.5.11.jar",
-      "sha256": "2aa10e4836ea8827a15595bde51ffac734f260a927a7d7ec66d1c2ee21ca1c26"
+      "name": "citadel 2.6.1 1.20.1",
+      "filename": "citadel-2.6.1-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/citadel-2.6.1-1.20.1.jar",
+      "sha256": "8ceb5eb471c6feb899c02a9d560917dcc460cd0cb0d6b77d3237889cffb7e1d9"
     }
   ]
 }
