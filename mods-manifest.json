@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mods": [
     {
       "name": "BetterAdvancements Fabric 1.21.1 0.4.3.21",
@@ -12,6 +12,18 @@
       "filename": "balm-fabric-1.21.1-21.0.55.jar",
       "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/balm-fabric-1.21.1-21.0.55.jar",
       "sha256": "58f91b458da85ee973c6cc63c618b4856144cf726d662cf605b9aafb480f127d"
+    },
+    {
+      "name": "architectury 9.2.14 forge",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+    },
+    {
+      "name": "artifacts forge 9.5.11",
+      "filename": "artifacts-forge-9.5.11.jar",
+      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/artifacts-forge-9.5.11.jar",
+      "sha256": "2aa10e4836ea8827a15595bde51ffac734f260a927a7d7ec66d1c2ee21ca1c26"
     }
   ]
 }
