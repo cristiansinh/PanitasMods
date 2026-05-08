@@ -1,11 +1,449 @@
 {
-  "version": "1.0.2",
+  "version": "2.0.0",
   "mods": [
     {
-      "name": "citadel 2.6.1 1.20.1",
-      "filename": "citadel-2.6.1-1.20.1.jar",
-      "url": "https://raw.githubusercontent.com/cristiansinh/PanitasMods/main/mods/citadel-2.6.1-1.20.1.jar",
-      "sha256": "8ceb5eb471c6feb899c02a9d560917dcc460cd0cb0d6b77d3237889cffb7e1d9"
+      "name": "Axiom-5.2.1-for-MC1.21.10",
+      "filename": "Axiom-5.2.1-for-MC1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/Axiom-5.2.1-for-MC1.21.10.jar",
+      "sha256": "d765dc032d37f624c9b46c644c8b7e8d55364bcf41dea32572c521df53aac5e5"
+    },
+    {
+      "name": "BadOptimizations-2.4.1-1.21.10",
+      "filename": "BadOptimizations-2.4.1-1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/BadOptimizations-2.4.1-1.21.10.jar",
+      "sha256": "5bf25cfa1eb262a018f4673c5b01df5e970e04d91803e27145a921f7e4313bde"
+    },
+    {
+      "name": "BetterF3-16.0.3-Fabric-1.21.10",
+      "filename": "BetterF3-16.0.3-Fabric-1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/BetterF3-16.0.3-Fabric-1.21.10.jar",
+      "sha256": "bb8b387addf88bbee96b9de81ed5c57c498225896d8ed2e3b892c1565de91a5d"
+    },
+    {
+      "name": "Controlling-fabric-1.21.10-28.0.2",
+      "filename": "Controlling-fabric-1.21.10-28.0.2.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/Controlling-fabric-1.21.10-28.0.2.jar",
+      "sha256": "b18da5b065ac1a5c133eef9ad186c7219fa4c6b4d5cac1a3b04a1b2dff3cc27b"
+    },
+    {
+      "name": "CutThrough-v21.10.0+mc1.21.10-Fabric",
+      "filename": "CutThrough-v21.10.0+mc1.21.10-Fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/CutThrough-v21.10.0+mc1.21.10-Fabric.jar",
+      "sha256": "6196249e21c739ad0a092c4f9dc1dcc589263af81c8f6a7056b371d885d47567"
+    },
+    {
+      "name": "DayCount-1.3.5-mc1.21.9",
+      "filename": "DayCount-1.3.5-mc1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/DayCount-1.3.5-mc1.21.9.jar",
+      "sha256": "2563cdfacb556e244c7f7237c47d51b848e4a1fec8596481ffc32a3c2482b26e"
+    },
+    {
+      "name": "DeleteWorldsToTrash-v21.10.0+mc1.21.10-Fabric",
+      "filename": "DeleteWorldsToTrash-v21.10.0+mc1.21.10-Fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/DeleteWorldsToTrash-v21.10.0+mc1.21.10-Fabric.jar",
+      "sha256": "54f99e59c2bc5588481e3b6c932cd336c16fa4f549a7c67ac0e0ca68f90da16e"
+    },
+    {
+      "name": "DetailArmorBarReconstructed-5.0.0+1.21.9_11-fabric",
+      "filename": "DetailArmorBarReconstructed-5.0.0+1.21.9_11-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/DetailArmorBarReconstructed-5.0.0+1.21.9_11-fabric.jar",
+      "sha256": "f27829cd86fc34fc2a7f3bca01f4410fc7dd6603f280bbcb46f7af3e99c07f74"
+    },
+    {
+      "name": "EasyShulkerBoxes-v21.10.1+mc1.21.10-Fabric",
+      "filename": "EasyShulkerBoxes-v21.10.1+mc1.21.10-Fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/EasyShulkerBoxes-v21.10.1+mc1.21.10-Fabric.jar",
+      "sha256": "cb386481b5ae8173512d52a993e6889f8370614c47c3c4f58b648672292df6c2"
+    },
+    {
+      "name": "Flashback-0.39.1-for-MC1.21.10",
+      "filename": "Flashback-0.39.1-for-MC1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/Flashback-0.39.1-for-MC1.21.10.jar",
+      "sha256": "65e02773e598b23133749fea9801355f8eb2f6dba9e08f70c49b2e487c508503"
+    },
+    {
+      "name": "ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric",
+      "filename": "ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
+      "sha256": "de7cb0aece923411aa382cd09824e67ba5e2504ad926b4d628fc7c7eee150565"
+    },
+    {
+      "name": "HorseExpert-v21.10.0+mc1.21.10-Fabric",
+      "filename": "HorseExpert-v21.10.0+mc1.21.10-Fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/HorseExpert-v21.10.0+mc1.21.10-Fabric.jar",
+      "sha256": "ef7774a59e00d914dd0fc3584bf15dd26b93262346b141e20f9b3c5f561c4191"
+    },
+    {
+      "name": "ImmediatelyFast-Fabric-1.13.4+1.21.10",
+      "filename": "ImmediatelyFast-Fabric-1.13.4+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/ImmediatelyFast-Fabric-1.13.4+1.21.10.jar",
+      "sha256": "8a66ff6b315a3a7e8302809fb9ae34c028fde25eea8b8975cbb72d23b295321c"
+    },
+    {
+      "name": "ParticleEffects-1.1.0+1.21.10+fabric",
+      "filename": "ParticleEffects-1.1.0+1.21.10+fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/ParticleEffects-1.1.0+1.21.10+fabric.jar",
+      "sha256": "e3a9c0e6d50fa1c1b59c62b804067b803b614a5e17fd913c481d41851c6f4ee6"
+    },
+    {
+      "name": "PuzzlesLib-v21.10.8+mc1.21.10-Fabric",
+      "filename": "PuzzlesLib-v21.10.8+mc1.21.10-Fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/PuzzlesLib-v21.10.8+mc1.21.10-Fabric.jar",
+      "sha256": "3378340cb0aa04d60aceabdebd2fb6a326e777d8eaed5622ac98955ad4b757b5"
+    },
+    {
+      "name": "Searchables-fabric-1.21.10-1.0.2",
+      "filename": "Searchables-fabric-1.21.10-1.0.2.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/Searchables-fabric-1.21.10-1.0.2.jar",
+      "sha256": "06a2f690069da4020ef880c3284739f4fbb974e8860982fc25e8701c0da59977"
+    },
+    {
+      "name": "SkinShuffle-2.10.0+1.21.10",
+      "filename": "SkinShuffle-2.10.0+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/SkinShuffle-2.10.0+1.21.10.jar",
+      "sha256": "784a557ba61f59e3692c6ce6ab24d9e67fc38650c7a7517750068e0d08e9ddcd"
+    },
+    {
+      "name": "Zoomify-2.14.6+1.21.9",
+      "filename": "Zoomify-2.14.6+1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/Zoomify-2.14.6+1.21.9.jar",
+      "sha256": "88cb79afd36bfb9bb5d555c55fa9fbad21eef893269a7a44c84b38c5b3fddd1a"
+    },
+    {
+      "name": "architectury-18.0.8-fabric",
+      "filename": "architectury-18.0.8-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/architectury-18.0.8-fabric.jar",
+      "sha256": "a5cfdf71eaa280cdc110d3b5e0079d3fa60651a4aa52d92c9a3b54624cca0813"
+    },
+    {
+      "name": "armor-stand-arms-v2.5.4",
+      "filename": "armor-stand-arms-v2.5.4.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/armor-stand-arms-v2.5.4.jar",
+      "sha256": "dc58004470a5fc75edbcba63cbcd6d22288873d3b23375569da39382bbf07258"
+    },
+    {
+      "name": "betterstats-4.0.0+fabric-1.21.10",
+      "filename": "betterstats-4.0.0+fabric-1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/betterstats-4.0.0+fabric-1.21.10.jar",
+      "sha256": "23152f90ba1f969d9593312040b1559c3314c04fca08f68e25a05449b9d6b9e4"
+    },
+    {
+      "name": "boatiview-fabric-0.0.7-1.21.10",
+      "filename": "boatiview-fabric-0.0.7-1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/boatiview-fabric-0.0.7-1.21.10.jar",
+      "sha256": "dcd9b2c3cd2a36a441669cc860482e523d470754d0b6c52a54aec727754a49ba"
+    },
+    {
+      "name": "bookshelfinspector-fabric-2.2+1.21.10",
+      "filename": "bookshelfinspector-fabric-2.2+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/bookshelfinspector-fabric-2.2+1.21.10.jar",
+      "sha256": "5b3deef2227d7e123bff59e9c657b921c6835c03113c9efc05845cd1fd05db9e"
+    },
+    {
+      "name": "chatanimation-fabric-1.21.10-1.1.3",
+      "filename": "chatanimation-fabric-1.21.10-1.1.3.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/chatanimation-fabric-1.21.10-1.1.3.jar",
+      "sha256": "fd18853cb21dd974db152ca3a64fd34d781e0ef8e3fdd7b264b8b3dcda94aa29"
+    },
+    {
+      "name": "cherishedworlds-fabric-14.0.0+1.21.10",
+      "filename": "cherishedworlds-fabric-14.0.0+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/cherishedworlds-fabric-14.0.0+1.21.10.jar",
+      "sha256": "371a1cb336e73125b850431d16e89e237beb6e7ebdea97777d0f2304a0d864db"
+    },
+    {
+      "name": "cloth-config-20.0.149-fabric",
+      "filename": "cloth-config-20.0.149-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/cloth-config-20.0.149-fabric.jar",
+      "sha256": "066a447e3423a182dac8c4b25a693c726308a3d3cb3df316d5588099b4751787"
+    },
+    {
+      "name": "collective-1.21.10-8.13",
+      "filename": "collective-1.21.10-8.13.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/collective-1.21.10-8.13.jar",
+      "sha256": "6d147b507af9087a7b04d492f28d1b318c064a6bc8f606937eb114e88f74b0b1"
+    },
+    {
+      "name": "continuity-3.0.1-beta.2+1.21.10",
+      "filename": "continuity-3.0.1-beta.2+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/continuity-3.0.1-beta.2+1.21.10.jar",
+      "sha256": "ee55eb87723f53909d218e122723c12fe4155c82e4b0b9839fde1eab5abdbff2"
+    },
+    {
+      "name": "controlify-2.5.0+1.21.10-fabric",
+      "filename": "controlify-2.5.0+1.21.10-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/controlify-2.5.0+1.21.10-fabric.jar",
+      "sha256": "af977dbd06c801440c68e2f02e417de87eabb09de97ba811d2d5c7e29c26e024"
+    },
+    {
+      "name": "customizableelytra-fabric-2.2.8+1.21.10",
+      "filename": "customizableelytra-fabric-2.2.8+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/customizableelytra-fabric-2.2.8+1.21.10.jar",
+      "sha256": "6a4eac9d8924c5c300a18a000a1d47b583d61cd06a270ba804eedef59eff5a39"
+    },
+    {
+      "name": "cwb-fabric-3.0.0+mc1.21.5",
+      "filename": "cwb-fabric-3.0.0+mc1.21.5.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/cwb-fabric-3.0.0+mc1.21.5.jar",
+      "sha256": "0ffe5494c49758a5c3ba407aa25cb33962f7d1b00d1068cfbadf5104a219766a"
+    },
+    {
+      "name": "dungeons-and-taverns-v5.0.4",
+      "filename": "dungeons-and-taverns-v5.0.4.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/dungeons-and-taverns-v5.0.4.jar",
+      "sha256": "3eb080f89ae5bff563fd15000a1864b7ac612b5a118cd5b3a2a6a3c216a39ee5"
+    },
+    {
+      "name": "entity_model_features_1.21.9-fabric-3.0.7",
+      "filename": "entity_model_features_1.21.9-fabric-3.0.7.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/entity_model_features_1.21.9-fabric-3.0.7.jar",
+      "sha256": "38d1cc9daf3c3d68047d6821cd1300c6d721c42f90b8923eebdbd88757dda97f"
+    },
+    {
+      "name": "entity_sound_features_1.21.9-fabric-0.7.2",
+      "filename": "entity_sound_features_1.21.9-fabric-0.7.2.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/entity_sound_features_1.21.9-fabric-0.7.2.jar",
+      "sha256": "6a6ea16f6c982af652a96d105601b0b216338f89f00406957d358d577bd02c8a"
+    },
+    {
+      "name": "entity_texture_features_1.21.9-fabric-7.0.6",
+      "filename": "entity_texture_features_1.21.9-fabric-7.0.6.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/entity_texture_features_1.21.9-fabric-7.0.6.jar",
+      "sha256": "7b319056388a6c0045d0d913b71d8988e351c230caf49fcc988eaf9ee9eb4d05"
+    },
+    {
+      "name": "entityculling-fabric-1.9.4-mc1.21.10",
+      "filename": "entityculling-fabric-1.9.4-mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/entityculling-fabric-1.9.4-mc1.21.10.jar",
+      "sha256": "562a59bbe1e2d4e96aa50c47e29ee60477c7fb8f4095075ad74c4b787d6a6c69"
+    },
+    {
+      "name": "fabric-api-0.138.4+1.21.10",
+      "filename": "fabric-api-0.138.4+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/fabric-api-0.138.4+1.21.10.jar",
+      "sha256": "4dd5d07067d5cf3e874d2780806c3da223819d39b28d6296c1005a36f2d0a5e4"
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.8+kotlin.2.3.0",
+      "filename": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+      "sha256": "760953d8d3d1fa32a353593d744e2917d8a91ca8923ae9518b5ef2676a631002"
+    },
+    {
+      "name": "freecam-fabric-1.3.5+mc1.21.10",
+      "filename": "freecam-fabric-1.3.5+mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/freecam-fabric-1.3.5+mc1.21.10.jar",
+      "sha256": "8aea0c20a1d828ad16e01cc57d0aad92f3425a07a413f75bbb79b2636a7a62d7"
+    },
+    {
+      "name": "happy_ghasts_boost-merged-1.21.9-1.0.0",
+      "filename": "happy_ghasts_boost-merged-1.21.9-1.0.0.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/happy_ghasts_boost-merged-1.21.9-1.0.0.jar",
+      "sha256": "27316e37505a8bc0a82dc59cdb9c6f380cddc3055a4fe7263468ef8fb04cedfc"
+    },
+    {
+      "name": "immersive-hotbar-1.0.4-1.21.9",
+      "filename": "immersive-hotbar-1.0.4-1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/immersive-hotbar-1.0.4-1.21.9.jar",
+      "sha256": "ec8e2384544c9fb54b5e4769cade1f39e19b3f2c539cff17d2d6b17493397789"
+    },
+    {
+      "name": "iris-fabric-1.9.7+mc1.21.10",
+      "filename": "iris-fabric-1.9.7+mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/iris-fabric-1.9.7+mc1.21.10.jar",
+      "sha256": "2b207f51cd91f2b4928597e80f90346dec4821772d8df008d0a6b42971add7ea"
+    },
+    {
+      "name": "jamlib-fabric-1.3.5+1.21.10",
+      "filename": "jamlib-fabric-1.3.5+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/jamlib-fabric-1.3.5+1.21.10.jar",
+      "sha256": "ddd8fc7eb858cfba6d1ac7c7ccc98ed6b639efd57e23acc76f730e9286ee8509"
+    },
+    {
+      "name": "jei-1.21.10-fabric-26.2.0.30",
+      "filename": "jei-1.21.10-fabric-26.2.0.30.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/jei-1.21.10-fabric-26.2.0.30.jar",
+      "sha256": "4ade43bacad88f1d5397097e5774d3d4d549a985a7238736cd393e35b3e1c108"
+    },
+    {
+      "name": "libjf-3.19.4+backport",
+      "filename": "libjf-3.19.4+backport.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/libjf-3.19.4+backport.jar",
+      "sha256": "c85d3c77938480f0f01462f266d02d21d3787f408d87a86d67e77cceb49c63ce"
+    },
+    {
+      "name": "lighty-fabric-3.1.3+1.21.10",
+      "filename": "lighty-fabric-3.1.3+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/lighty-fabric-3.1.3+1.21.10.jar",
+      "sha256": "8d1007ad41015ab3a81182e7cdae4bc91a73e3d3223c79a267148b8b5364aa30"
+    },
+    {
+      "name": "litematica-fabric-1.21.10-0.24.6",
+      "filename": "litematica-fabric-1.21.10-0.24.6.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/litematica-fabric-1.21.10-0.24.6.jar",
+      "sha256": "bc6bc572140b0d6714028423c5e2daa8bfce70ae9a1986d23a469b918fa58c27"
+    },
+    {
+      "name": "locator_lodestones-1.4.5+1.21.9+B",
+      "filename": "locator_lodestones-1.4.5+1.21.9+B.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/locator_lodestones-1.4.5+1.21.9+B.jar",
+      "sha256": "5fcf9a6060a7b8a79f803705ecec1001efddde4d21f3ab4b35d30dd7703bb948"
+    },
+    {
+      "name": "malilib-fabric-1.21.10-0.26.8",
+      "filename": "malilib-fabric-1.21.10-0.26.8.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/malilib-fabric-1.21.10-0.26.8.jar",
+      "sha256": "cffb0ff85a05f517082d5cc707c57adb9f1950410004a139836ac78d2842436f"
+    },
+    {
+      "name": "modmenu-16.0.0-rc.2",
+      "filename": "modmenu-16.0.0-rc.2.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/modmenu-16.0.0-rc.2.jar",
+      "sha256": "45a18aaea73fe7f1350dd171af722bc80f3d8bbf415f6f85c060b3d033c4887e"
+    },
+    {
+      "name": "monolib-fabric-1.21.10-3.1.1",
+      "filename": "monolib-fabric-1.21.10-3.1.1.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/monolib-fabric-1.21.10-3.1.1.jar",
+      "sha256": "fc53ba97cd98e6a63a44e978660776a748fbfba1830acaf97bc08ba896c204ef"
+    },
+    {
+      "name": "naturally_trimmed-3.1.2+1.21.9-fabric",
+      "filename": "naturally_trimmed-3.1.2+1.21.9-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/naturally_trimmed-3.1.2+1.21.9-fabric.jar",
+      "sha256": "36a0f7e0be442c6a0e3ec38e4fe7a39e5272f4f4eee9f415efe87af13e35df4f"
+    },
+    {
+      "name": "notenoughanimations-fabric-1.11.1-mc1.21.10",
+      "filename": "notenoughanimations-fabric-1.11.1-mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/notenoughanimations-fabric-1.11.1-mc1.21.10.jar",
+      "sha256": "79696c110f267283f26d40b50d15991850c067cf9274bb474547f844475a3591"
+    },
+    {
+      "name": "optigui-2.3.0-beta.9+1.21.9",
+      "filename": "optigui-2.3.0-beta.9+1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/optigui-2.3.0-beta.9+1.21.9.jar",
+      "sha256": "ea5b6e2bec49766ac29bbbd557bdc7bd18c4fcefb29130fc51143c268ea8b876"
+    },
+    {
+      "name": "packed_packs-fabric-2.0.3+1.21.9",
+      "filename": "packed_packs-fabric-2.0.3+1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/packed_packs-fabric-2.0.3+1.21.9.jar",
+      "sha256": "4ec31937465bafc852a18ffee71670a41612a4e9ad92abc354669fa805bcefa9"
+    },
+    {
+      "name": "paginatedadvancements-2.8.0+1.21.9",
+      "filename": "paginatedadvancements-2.8.0+1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/paginatedadvancements-2.8.0+1.21.9.jar",
+      "sha256": "596ccf98809ec75dd223eb9629a760d520bdb66a4c3699adec284971a300f5af"
+    },
+    {
+      "name": "particlerain-4.0.0-beta.5+1.21.9-fabric",
+      "filename": "particlerain-4.0.0-beta.5+1.21.9-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/particlerain-4.0.0-beta.5+1.21.9-fabric.jar",
+      "sha256": "95d909b42edafedc3cecdad2d47db9f53fab28e81757af6c8929a04fc392078f"
+    },
+    {
+      "name": "particular-1.21.10-Fabric-1.3.1",
+      "filename": "particular-1.21.10-Fabric-1.3.1.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/particular-1.21.10-Fabric-1.3.1.jar",
+      "sha256": "efd3aa072eb39f39cd05708bdca40725d89073ae42a013c099a14508ebd7616c"
+    },
+    {
+      "name": "pickupnotifications-2.0.0+1.21.9",
+      "filename": "pickupnotifications-2.0.0+1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/pickupnotifications-2.0.0+1.21.9.jar",
+      "sha256": "c5ab5813f61986c0913081e32f795a8213034440671eff39ca2b55dbbd369ec9"
+    },
+    {
+      "name": "placeholder-api-2.8.1+1.21.10",
+      "filename": "placeholder-api-2.8.1+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/placeholder-api-2.8.1+1.21.10.jar",
+      "sha256": "a930f5cd058e74aa4617323b519f1de8357a1e364af62fd3f96956d94d5558ba"
+    },
+    {
+      "name": "reeses-sodium-options-fabric-1.8.6+mc1.21.10",
+      "filename": "reeses-sodium-options-fabric-1.8.6+mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/reeses-sodium-options-fabric-1.8.6+mc1.21.10.jar",
+      "sha256": "c2b7793a833f390d8fae4160eb14dc40cf590ecd4029e0ce038f84a6b0ae5086"
+    },
+    {
+      "name": "respackopts-4.14.0",
+      "filename": "respackopts-4.14.0.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/respackopts-4.14.0.jar",
+      "sha256": "5dd9ed2b186526ca615031c5fdf9b91456ca21aae79b42b77a4c311ed677371b"
+    },
+    {
+      "name": "rightclickharvest-fabric-4.6.0+1.21.10",
+      "filename": "rightclickharvest-fabric-4.6.0+1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/rightclickharvest-fabric-4.6.0+1.21.10.jar",
+      "sha256": "750ff1743eeaaa7d95209451de18075f936a63ccb218f58c24f92f3d448b632c"
+    },
+    {
+      "name": "scholar-fabric-1.21.10-1.1.11",
+      "filename": "scholar-fabric-1.21.10-1.1.11.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/scholar-fabric-1.21.10-1.1.11.jar",
+      "sha256": "f08f36e320648c043b00fee6c25bc37e42d3d5c02c252ee11988e3e7ce1ec24f"
+    },
+    {
+      "name": "simple-datapacks-fabric-2.3+1.21.9",
+      "filename": "simple-datapacks-fabric-2.3+1.21.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/simple-datapacks-fabric-2.3+1.21.9.jar",
+      "sha256": "5845951943b0dd7c66d7a3a5ec38175bcf95b4b7cab964f5c249805d8cbc682c"
+    },
+    {
+      "name": "skinlayers3d-fabric-1.10.1-mc1.21.10",
+      "filename": "skinlayers3d-fabric-1.10.1-mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/skinlayers3d-fabric-1.10.1-mc1.21.10.jar",
+      "sha256": "0abd7c55a98f0237b675ac4aac1252c087d8fc12061dad7296c3f323f4b26039"
+    },
+    {
+      "name": "sodium-extra-fabric-0.7.1+mc1.21.10",
+      "filename": "sodium-extra-fabric-0.7.1+mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/sodium-extra-fabric-0.7.1+mc1.21.10.jar",
+      "sha256": "56ee539b2c109bb78c3e4b9d172c81a4181b1c2079a106d2c94d6ce828a770ed"
+    },
+    {
+      "name": "sodium-fabric-0.7.3+mc1.21.10",
+      "filename": "sodium-fabric-0.7.3+mc1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/sodium-fabric-0.7.3+mc1.21.10.jar",
+      "sha256": "b0bcfa324fa6acf8934b7bd5ad1946e5a003aab86f877d2a64af220fe284b683"
+    },
+    {
+      "name": "sodium-shadowy-path-blocks-fabric-5.0.1",
+      "filename": "sodium-shadowy-path-blocks-fabric-5.0.1.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/sodium-shadowy-path-blocks-fabric-5.0.1.jar",
+      "sha256": "91b5d5c50826703c3ed0e6780152b574e605b1d70e5ed0304f18eb600185196e"
+    },
+    {
+      "name": "status-effect-bars-1.0.9",
+      "filename": "status-effect-bars-1.0.9.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/status-effect-bars-1.0.9.jar",
+      "sha256": "ac789567252eb98b5731a52cff18e44619f210ccd4bee41978f7e6d4b8966baf"
+    },
+    {
+      "name": "tcdcommons-4.0.1+fabric-1.21.10",
+      "filename": "tcdcommons-4.0.1+fabric-1.21.10.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/tcdcommons-4.0.1+fabric-1.21.10.jar",
+      "sha256": "191ed80bfcbbb4a2ac41e5871bd25740da30c84eebe79689aeafb6d30774e934"
+    },
+    {
+      "name": "textformattingeverywhere-fabric-2.0.4",
+      "filename": "textformattingeverywhere-fabric-2.0.4.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/textformattingeverywhere-fabric-2.0.4.jar",
+      "sha256": "3cf38a4d702c99613dfe0f878810b5defac0327bf63aab4d118ae27f028ce714"
+    },
+    {
+      "name": "worldplaytime-1.2.4-1.21.10-FABRIC",
+      "filename": "worldplaytime-1.2.4-1.21.10-FABRIC.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/worldplaytime-1.2.4-1.21.10-FABRIC.jar",
+      "sha256": "59014e0c98c63115f68eb1e769354e18ef0097b3316efc9745d03e225a6da704"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.1+1.21.10-fabric",
+      "filename": "yet_another_config_lib_v3-3.8.1+1.21.10-fabric.jar",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/yet_another_config_lib_v3-3.8.1+1.21.10-fabric.jar",
+      "sha256": "67edf0faa32081b3430184e101a9926db52eb1aad951148dcb34a129ba1cd70e"
     }
   ]
 }
