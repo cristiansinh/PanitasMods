@@ -445,5 +445,47 @@
       "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/yet_another_config_lib_v3-3.8.1+1.21.10-fabric.jar",
       "sha256": "67edf0faa32081b3430184e101a9926db52eb1aad951148dcb34a129ba1cd70e"
     }
+  ],
+  "extras": [
+    {
+      "name": "config",
+      "filename": "config.zip",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/config.zip",
+      "sha256": "8449f2672a4e7e5325f67b26427d6bdd99d13ab4fe5188092ce66ab3746c96a7",
+      "dest": ".",
+      "action": "extract"
+    },
+    {
+      "name": "datapacks",
+      "filename": "datapacks.zip",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/datapacks.zip",
+      "sha256": "135d6501de73dff947a6c4657f41bee51a732eaf7422f282dc17cc96b6bd9cc7",
+      "dest": ".",
+      "action": "extract"
+    },
+    {
+      "name": "resourcepacks",
+      "filename": "resourcepacks.zip",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/resourcepacks.zip",
+      "sha256": "e0c7dddd5abec71230a7c0871b96a5b5eee2df16969b9dfaed40a0f7104ebe17",
+      "dest": ".",
+      "action": "extract"
+    },
+    {
+      "name": "shaderpacks",
+      "filename": "shaderpacks.zip",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/shaderpacks.zip",
+      "sha256": "1202ec22411a4cb9c1a6bca4eafdb3248b61fb6b2744155eb50163db1081a4ea",
+      "dest": ".",
+      "action": "extract"
+    },
+    {
+      "name": "options",
+      "filename": "options.txt",
+      "url": "https://github.com/cristiansinh/PanitasMods/releases/download/v2.0.0/options.txt",
+      "sha256": "5697638581a9825f73dc6f41f28c0d289b241772b705b0f1d5e1a2903e148529",
+      "dest": "options.txt",
+      "action": "copy-if-missing"
+    }
   ]
 }
